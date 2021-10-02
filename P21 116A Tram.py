@@ -2,7 +2,7 @@
 """
 Created on Fri May 21 02:40:05 2021
 
-@author: kkhan
+@author: Kunal Khandelwal
 """
 
 n=int(input(""))
