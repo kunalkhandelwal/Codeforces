@@ -2,7 +2,7 @@
 """
 Created on Wed May 19 17:23:05 2021
 
-@author: kkhan
+@author: Kunal
 """
 n=str(input(""))
 if '0000000' in n:
