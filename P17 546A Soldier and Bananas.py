@@ -2,7 +2,7 @@
 """
 Created on Thu May 20 01:55:52 2021
 
-@author: kkhan
+@author: Kunal
 """
 
 k,n,w =map(int, input().split())
