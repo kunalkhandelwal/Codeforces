@@ -2,7 +2,7 @@
 """
 Created on Sat May 29 22:40:59 2021
 
-@author: kkhan
+@author:Kunal
 """
 n=int(input())
 #arr=list(map(int, input().split()))
