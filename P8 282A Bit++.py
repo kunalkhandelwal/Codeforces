@@ -21,7 +21,7 @@ for i in range(0, n):
 """
 Created on Sun May 16 12:37:54 2021
 
-@author: kkhan
+@author: Kunal
 """
 
 n=int(input(""))
