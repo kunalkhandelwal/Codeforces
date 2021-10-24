@@ -2,7 +2,7 @@
 """
 Created on Sat May 15 22:57:25 2021
 
-@author: kkhan
+@author: Kunal
 """
 
 a=list(map(int, input().split()))
