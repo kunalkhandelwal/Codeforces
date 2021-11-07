@@ -2,7 +2,7 @@
 """
 Created on Sat May 22 18:40:07 2021
 
-@author: kkhan
+@author: Kunal
 """
 n=int(input(""))
 if n==4 or n==7 or n==47 or n==74 or n==44 or n==77 or n==444 or n==447 or n==474 or n==477 or n==744 or n==747 or n==774 or n==777:
