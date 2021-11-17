@@ -1,9 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-@author: Kunal
+@author: Kunal Khandelwal
 """
-
-
 arr = list(map(int, input().split()))
 
 n=arr[0]
