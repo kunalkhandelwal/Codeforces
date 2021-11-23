@@ -2,7 +2,7 @@
 """
 Created on Wed May 19 17:28:29 2021
 
-@author: kkhan
+@author: Kunal
 """
 x=int(input(''))
 sx=sy=sz=0
