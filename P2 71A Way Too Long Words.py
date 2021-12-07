@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: Kunal
+@author: Kunal Khandelwal
 """
 
 n = int(input(""))
