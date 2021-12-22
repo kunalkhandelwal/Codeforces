@@ -2,7 +2,7 @@
 """
 Created on Fri May 28 00:08:52 2021
 
-@author: Kunal
+@author: Kunal Khandelwal
 """
 n=int(input())
 cnt=0
