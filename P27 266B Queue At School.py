@@ -2,7 +2,7 @@
 """
 Created on Tue May 25 23:58:03 2021
 
-@author: Kunal
+@author: Kunal Khandelwal
 """
 
 a=raw_input().split(' ')
