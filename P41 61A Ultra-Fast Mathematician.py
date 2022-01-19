@@ -2,7 +2,7 @@
 """
 Created on Tue Jun  1 12:56:12 2021
 
-@author: Kunal
+@author: Kunal Khandelwal
 """
 n1=str(input())
 n2=str(input())
