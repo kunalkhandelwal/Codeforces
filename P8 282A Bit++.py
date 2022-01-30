@@ -2,7 +2,7 @@
 """
 Created on Sun May 16 11:01:51 2021
 
-@author: Kunal
+@author: Kunal Khandewal
 """
 
 #a=[list(map(str, input().split())) for j in range(n)]
