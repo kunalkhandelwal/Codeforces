@@ -2,7 +2,7 @@
 """
 Created on Sat Jun  5 22:15:54 2021
 
-@author: kkhan
+@author: Kunal
 """
 
 a=set(str(input("")))
