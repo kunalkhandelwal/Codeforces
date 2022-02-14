@@ -2,7 +2,7 @@
 """
 Created on Mon May 31 02:09:24 2021
 
-@author: Kunal
+@author: Kunal Khandelwal
 """
 #https://codeforces.com/problemset/problem/580/A
 
